@@ -1,2 +1,0 @@
-# MYCO
-Software development system 
